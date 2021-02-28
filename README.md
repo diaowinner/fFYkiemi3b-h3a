@@ -1,5 +1,4 @@
-# Pokémon Red and Blue [![Build Status][travis-badge]][travis]
-
+# fߔɤkiemiзb hзa/viəy (fFYkiemi3b h3a vi2y ,フッドゥァィキィエミオンボ　ホンア　ニアンヰ)
 This is a disassembly of Pokémon Red and Blue.
 
 It builds the following ROMs:
@@ -37,5 +36,3 @@ Other disassembly projects:
 [pokeemerald]: https://github.com/pret/pokeemerald
 [discord]: https://discord.gg/d5dubZ3
 [irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
-[travis]: https://travis-ci.org/pret/pokered
-[travis-badge]: https://travis-ci.org/pret/pokered.svg?branch=master
