@@ -149,13 +149,15 @@
 	charmap "x",         $b7
 	charmap "y",         $b8
 	charmap "z",         $b9
-
-	charmap "é",         $ba
-	charmap "'d",        $bb
-	charmap "'l",        $bc
-	charmap "'s",        $bd
-	charmap "'t",        $be
-	charmap "'v",        $bf
+        charmap "é",         $ba
+	
+	;Xdi8 Aho
+	
+	; charmap "'d",        $bb
+	; charmap "'l",        $bc
+	; charmap "'s",        $bd
+	; charmap "'t",        $be
+	; charmap "'v",        $bf
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
