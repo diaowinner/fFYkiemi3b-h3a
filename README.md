@@ -8,6 +8,7 @@ It builds the following ROMs:
 - BLUEMONS.GB (debug build) `sha1: not finished yet`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
+this hack contains Xdi8Aho alphabet `bBEenN12345678YLTVDFH`, should see the [charmap](charmap.asm).
 
 
 ## See also
