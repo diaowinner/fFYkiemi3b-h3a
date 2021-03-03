@@ -3,9 +3,9 @@ This is a Shidinn Chinese (?) version of Pokémon Red and Blue.
 
 It builds the following ROMs:
 
-- Pokemon Red (UE) [S][!].gb `sha1: ea9bcae617fdf159b045185467ae58b2e4a48b9a`
-- Pokemon Blue (UE) [S][!].gb `sha1: d7037c83e1ae5b39bde3c30787637ba1d4c48ce2`
-- BLUEMONS.GB (debug build) `sha1: 5b1456177671b79b263c614ea0e7cc9ac542e9c4`
+- Pokemon Red (UE) [S][!].gb `sha1: not finished yet`
+- Pokemon Blue (UE) [S][!].gb `sha1: not finished yet`
+- BLUEMONS.GB (debug build) `sha1: not finished yet`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
@@ -14,6 +14,7 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 - **Discord:** [pret][discord]
 - **IRC:** [freenode#pret][irc]
+- **Xdi8Translator：** [here][xdfyq]
 
 Other disassembly projects:
 
@@ -36,3 +37,5 @@ Other disassembly projects:
 [pokeemerald]: https://github.com/pret/pokeemerald
 [discord]: https://discord.gg/d5dubZ3
 [irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
+
+[xdfyq]: https://xdi8translator.nyoeghau.com/
