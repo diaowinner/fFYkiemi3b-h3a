@@ -162,6 +162,24 @@
 	charmap "*E*"        $bd
 	charmap "^e^"        $be
 	charmap "^n^"        $bf
+	charmap "^N^"        $c0
+	charmap "*N*"        $c1
+	charmap "^1^"        $c2
+	charmap "*1*"        $c3
+	charmap "^2^"        $c4
+	charmap "*2*"        $c5
+	charmap "^3^"        $c6
+	charmap "*3*"        $c7
+	charmap "^4^"        $c8
+	charmap "*4*"        $c9
+	charmap "^5^"        $ca
+	charmap "*5*"        $cb
+	charmap "^6^"        $cc
+	charmap "*6*"        $cd
+	charmap "^7^"        $ce
+	charmap "*7*"        $cf
+	charmap "^8^"        $d0
+	charmap "*8*"        $d1
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
