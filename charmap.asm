@@ -180,6 +180,21 @@
 	charmap "*7*"        $cf
 	charmap "^8^"        $d0
 	charmap "*8*"        $d1
+	charmap "^Y^"        $d2
+	charmap "*Y*"        $d3
+	charmap "^L^"        $d4
+	charmap "*L*"        $d5
+	charmap "^T^"        $d6
+	charmap "*T*"        $d7
+	charmap "^V^"        $d8
+	charmap "*V*"        $d9
+	charmap "^D^"        $da
+	charmap "*D*"        $db
+	charmap "^F^"        $dc
+	charmap "*F*"        $dd
+	charmap "^H^"        $de
+	charmap "*H*"        $df
+	
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
