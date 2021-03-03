@@ -151,13 +151,17 @@
 	charmap "z",         $b9
         charmap "é",         $ba
 	
-	;Xdi8 Aho
-	
+	; Xdi8 Aho, *x* means lower & ^x^ means upper
 	; charmap "'d",        $bb
 	; charmap "'l",        $bc
 	; charmap "'s",        $bd
 	; charmap "'t",        $be
 	; charmap "'v",        $bf
+	charmap "^b^"        $bb
+	charmap "*B*"        $bc
+	charmap "*E*"        $bd
+	charmap "^e^"        $be
+	charmap "^n^"        $bf
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
