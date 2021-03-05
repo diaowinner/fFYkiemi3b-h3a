@@ -7,9 +7,21 @@ It builds the following ROMs:
 - Pokemon Blue (UE) [S][!].gb `sha1: not finished yet`
 - BLUEMONS.GB (debug build) `sha1: not finished yet`
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
-this hack contains *new* Xdi8Aho alphabet `bBEenN12345678YLTVDFH`, `^`x`^`means upper and `*`x`*` means lower. Other just use the UPPER/ lower one of the ASCII codeset like `h`'s upper is just `H`.
+# The alphabet
 
+To set up the repository, see [**INSTALL.md**](INSTALL.md).
+this hack contains *new* Xdi8Aho alphabet `bBEenN12345678YLTVDFH`, `^`x`^`means upper and `*`x`*` means lower. Other just use the UPPER/ lower one of the ASCII codeset like `h`'s upper is just `H`, like
+```
+孩 子,大 木
+对 您 很 感
+兴 趣!
+```
+can be translated as:
+```
+^V^h*Y* *H**L*, Da mi*A*
+d*V**H* *F*nu*8* h8*V* *F*f6
+5i3*H* *D**F**T*!
+```
 
 ## See also
 
