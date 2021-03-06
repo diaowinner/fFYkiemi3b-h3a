@@ -10,7 +10,7 @@ It builds the following ROMs:
 # The alphabet
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
-this hack contains *new* Xdi8Aho alphabet `bBEenN12345678YLTVDFHA`, `^`x`^`means upper and `*`x`*` means lower. Other just use the UPPER/ lower one of the ASCII codeset like `h`'s upper is just `H`, like
+this hack contains *new* Xdi8Aho alphabet `bBEenN12345678YLTVDFHA`, `^`x`^`means upper and `*`x`*` means lower. Other just use the UPPER/ lower one of the ASCII codeset like `h`'s upper is just `H` (but `H` in `xd` must be `*H*` or `^H^`!), like
 ```
 孩 子,大 木
 对 您 很 感
