@@ -1,4 +1,4 @@
-# fߔɤkiemiзb hзa/viəy (⇧fFYkiemi3b ⇧h3a / ⇧vi2y ,フッドゥァィキィエミオンボ　ホンア　／　ニアンヰ)
+# Fߔɤkiemiзb Hзa/Viəy (⇧fFYkiemi3b ⇧h3a / ⇧vi2y ,フッドゥァィキィエミオンボ　ホンア　／　ニアンヰ)
 This is a Shidinn Chinese (?) version of Pokémon Red and Blue.
 
 It builds the following ROMs:
