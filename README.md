@@ -22,7 +22,7 @@ can be translated as:
 d *V* *H*  *F* n u *8*  h *8* *V*  *F* f *6*
 *5* i *3* *H*  *D* *F* *T*!
 ```
-(Formatted, the original text is like `^V^h*Y*`...)
+(Formatted, the original text is like `^V^h*Y* *H*`...)
 
 ## See also
 
