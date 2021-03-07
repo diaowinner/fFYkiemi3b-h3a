@@ -18,10 +18,11 @@ this hack contains *new* Xdi8Aho alphabet `bBEenN12345678YLTVDFHA`, `^`x`^`means
 ```
 can be translated as:
 ```
-^V^h*Y* *H**L*, *D*a mi*A*
-d*V**H* *F*nu*8* h8*V* *F*f6
-5i3*H* *D**F**T*!
+^V^ h *Y*  *H* *L*, *D* a  m i *A*
+d *V* *H*  *F* n u *8*  h *8* *V*  *F* f *6*
+*5* i *3* *H*  *D* *F* *T*!
 ```
+(Formatted, the original text is like `^V^h*Y*`...)
 
 ## See also
 
