@@ -1,5 +1,6 @@
 # Fߔɤkiemiзb Hзa/Viəy (⇧fFYkiemi3b ⇧h3a / ⇧vi2y ,fuduai kie miongbo  honga / alu)
 This is a Shidinn Chinese (?) version of Pokémon Red and Blue.
+*** This is a untested hack, If you're a noob, Please don't compile!! ***
 
 It builds the following ROMs:
 
