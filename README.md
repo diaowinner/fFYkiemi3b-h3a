@@ -11,25 +11,19 @@ It builds the following ROMs:
 # The alphabet
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
-this hack contains *new* Xdi8Aho alphabet `bBEenN12345678YLTVDFHA`, `^`x`^`means upper and `*`x`*` means lower. Other just use the UPPER/ lower one of the ASCII codeset like `h`'s upper is just `H` (but `H` in `xd` must be `*H*` or `^H^`!), like
+this hack contains *new* Xdi8Aho alphabet.
+If you to use the **lower** one, please using a wide char (`12345678` -> `壹二三四五六柒八`),
+The **upper** is just a "汉写" (fEE xo) one, but `17` is still `一七`.
+For example:
 ```
-孩 子,大 木
-对 您 很 感
-兴 趣!
+"力ｄｉ八　大ｈｏ"
 ```
-can be translated as:
-```
-^V^ h *Y*  *H* *L*, *D* a  m i *A*
-d *V* *H*  *F* n u *8*  h *8* *V*  *F* f *6*
-*5* i *3* *H*  *D* *F* *T*!
-```
-(Formatted, the original text is like `^V^h*Y* *H*`...)
 
 ## See also
 
 - **Discord:** [pret][discord]
 - **IRC:** [freenode#pret][irc]
-- **Xdi8Translator：** [here][xdfyq]
+- **Xdi8Translator:** [here][xdfyq]
 
 Other disassembly projects:
 
