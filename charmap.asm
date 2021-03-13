@@ -151,7 +151,7 @@
 	charmap "z",         $b9
         charmap "é",         $ba
 	
-	; Xdi8 Aho, *x* means lower & ^x^ means upper
+	; Xdi8 Aho, redesigned
 	; charmap "'d",        $bb
 	; charmap "'l",        $bc
 	; charmap "'s",        $bd
@@ -159,6 +159,52 @@
 	; charmap "'v",        $bf
 	; charmap "ァ",         $e9 ; katakana small a, unused
 	; charmap "ゥ",         $ea ; katakana small u, unused
+	charmap "ａ"         $a0
+	charmap "ｂ"         $a1
+	charmap "Ｂ"         $bc
+	charmap "ｃ"         $a2
+	charmap "ｄ"         $a3
+	charmap "Ｅ"         $bd
+	charmap "ｅ"         $a4
+	charmap "ｆ"         $a5
+	charmap "ｇ"         $a6
+	charmap "ｈ"         $a7
+	charmap "ｉ"         $a8
+	charmap "ｊ"         $a9
+	charmap "ｋ"         $aa
+	charmap "ｌ"         $ab
+	charmap "ｍ"         $ac
+	charmap "ｎ"         $ad
+	charmap "Ｎ"         $c1
+	charmap "ｏ"         $ae
+	charmap "ｐ"         $af
+	charmap "ｑ"         $b0
+	charmap "ｒ"         $b1
+	charmap "ｓ"         $b2
+	charmap "ｔ"         $b3
+	charmap "ｕ"         $b4
+	charmap "Ａ"         $ea
+	charmap "ｖ"         $b5
+	charmap "ｗ"         $b6
+	charmap "ｘ"         $b7
+	charmap "ｙ"         $b8
+	charmap "ｚ"         $b9
+	charmap "壹"         $c3
+	charmap "二"         $c5
+	charmap "三"         $c7
+	charmap "四"         $c9
+	charmap "五"         $cb
+	charmap "六"         $cd
+	charmap "柒"         $cf
+	charmap "八"         $d1
+	charmap "Ｙ"         $d3
+	charmap "Ｌ"         $d5
+	charmap "Ｔ"         $d7
+	charmap "Ｖ"         $d9
+	charmap "Ｄ"         $db
+	charmap "Ｆ"         $dd
+	charmap "Ｈ"         $df
+	
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
 	charmap "<MN>",      $e2
