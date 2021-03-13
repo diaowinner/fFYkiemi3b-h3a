@@ -172,7 +172,7 @@
 	charmap "ｉ"         $a8
 	charmap "ｊ"         $a9
 	charmap "ｋ"         $aa
-	charmap "ｌ"         $ab
+	charmap "ｌ"         $ec
 	charmap "ｍ"         $ac
 	charmap "ｎ"         $ad
 	charmap "Ｎ"         $c1
