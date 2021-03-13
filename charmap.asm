@@ -204,6 +204,52 @@
 	charmap "Ｄ"         $db
 	charmap "Ｆ"         $dd
 	charmap "Ｈ"         $df
+	;upper
+	charmap "大"         $80
+	charmap "夕"         $81
+	charmap "万"         $bb
+	charmap "亡"         $82
+	charmap "刀"         $83
+	charmap "幺"         $84
+	charmap "巳"         $be
+	charmap "下"         $85
+	charmap "马"         $86
+	charmap "九"         $87
+	charmap "工"         $88
+	charmap "丁"         $89
+	charmap "反"         $8a
+	charmap "乙"         $8b
+	charmap "巾"         $8c
+	charmap "几"         $8d
+	charmap "兀"         $c0
+	charmap "口"         $8e
+	charmap "尸"         $8f
+	charmap "中"         $90
+	charmap "尺"         $91
+	charmap "乡"         $92
+	charmap "七"         $93
+	charmap "午"         $94
+	charmap "女"         $e9
+	charmap "丩"         $95
+	charmap "山"         $96
+	charmap "力"         $97
+	charmap "丫"         $98
+	charmap "之"         $99
+	charmap "一"         $c2
+	charmap "又"         $c4
+	charmap "了"         $c6
+	charmap "千"         $c8
+	charmap "上"         $ca
+	charmap "厶"         $cc
+	charmap "亻"         $ce
+	charmap "月"         $d0
+	charmap "廿"         $d2
+	charmap "入"         $d4
+	charmap "日"         $d6
+	charmap "人"         $d8
+	charmap "才"         $da
+	charmap "子"         $dc
+	charmap "卜"         $de
 	
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
